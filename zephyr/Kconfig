@@ -1,0 +1,8 @@
+# Kconfig - key value store - kvs
+#
+# Copyright (c) 2022 Laczen
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+
+rsource "subsys/nvmp/Kconfig"
